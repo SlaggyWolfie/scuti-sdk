@@ -15,7 +15,7 @@ Developers get a cut of all purchases made and videos watched from within their 
 4. Place the Scuti Store prefab button in your shop
 5. Add currency exchange listeners either on the client side or server side
 
-When the gamer clicks/taps the Scuti Store prefab button, it will trigger the Scuti store to open and overlay the screen. While the store is not being actively viewed by the gamer it will remain dormant (outside of initializion/login calls on startup). It will not take any processing or cache any images and thus will not impact your game in any way. 
+When the gamer clicks/taps the Scuti Store prefab button, it will trigger the Scuti store to open and overlay the screen. While the store is not being actively viewed by the gamer it will remain dormant (outside of initialization/login calls on startup). It will not take any processing or cache any images and thus will not impact your game in any way. 
 
 Please check out our integration guide below for a complete walk through of each step. 
 
