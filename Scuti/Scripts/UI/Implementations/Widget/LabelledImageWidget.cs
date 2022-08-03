@@ -6,6 +6,8 @@ using UnityEngine.UI;
 using UnityEngine.Events;
 using System.ComponentModel;
 
+using NaughtyAttributes;
+
 namespace Scuti{
 	public class LabelledImageWidget : MonoBehaviour {
 		public object data;

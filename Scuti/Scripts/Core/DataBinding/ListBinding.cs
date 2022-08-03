@@ -4,6 +4,7 @@ using System.Linq;
 using System.Collections.Generic;
 using System.Collections;
 using Scuti;
+using NaughtyAttributes;
 
 [SerializeField]
 public class ListBinding<T> : IEnumerable<T> {

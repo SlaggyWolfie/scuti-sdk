@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using NaughtyAttributes;
 
 namespace Scuti.UISystem {
     [RequireComponent(typeof(CanvasGroup))]

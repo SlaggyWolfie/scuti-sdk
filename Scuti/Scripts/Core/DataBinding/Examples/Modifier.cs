@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using NaughtyAttributes;
 
 namespace Scuti.Examples.DataBinding {
     public class Modifier : MonoBehaviour {

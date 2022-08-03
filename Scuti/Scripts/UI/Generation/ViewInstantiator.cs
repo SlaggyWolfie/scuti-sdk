@@ -1,6 +1,7 @@
 ﻿using Scuti.UI;
 using System;
 using UnityEngine;
+using NaughtyAttributes;
 
 namespace Scuti {
     [Serializable]
